@@ -1,0 +1,31 @@
+.calc{
+    margin: auto;
+    height: 300px;
+    width: 300px;
+}
+.border{
+    height: 200px;
+    width: 15opx;
+}
+body{
+    background-color: black;
+}
+
+.button{
+    size: 50px;
+    color: rgb(76, 24, 197);
+    height: 50px;
+    width: 50px;
+}
+.button1{
+    color: rgb(151, 22, 22);
+    size: 70px;
+    height: 70px;
+    width: 70px;
+}
+.button2{
+    color: rgb(94, 7, 79);
+    size: 70px;
+    height: 70px;
+    width: 70px;
+}
